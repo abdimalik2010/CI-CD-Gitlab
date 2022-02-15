@@ -1,0 +1,7 @@
+fastapi
+pytest
+uvicorn
+requests
+pylint
+pycodestyle
+
